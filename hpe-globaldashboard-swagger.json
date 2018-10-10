@@ -1,5 +1,6 @@
 {
   "swagger": "2.0",
+  "basePath": "/rest",
   "info": {
     "title": "HPE OneView Global Dashboard REST API",
     "version": "2",
